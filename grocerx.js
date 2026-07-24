@@ -232,7 +232,7 @@ const CATS = [
   {id:'drinks',       l:'COLD DRINKS',   e:'🥤', img:'images/drink.png'},
   {id:'dairy',        l:'DAIRY',         e:'🥛', img:'images/dairy.png'},
   {id:'namkeen',      l:'NAMKEEN',       e:'🫘', img:'images/namkeen.png'},
-  {id:'personal_care',l:'PERSONAL CARE', e:'🧴', img:'images/shampoo.png'},
+  {id:'personal_care',l:'PERSONAL CARE', e:'🧴', img:'images/personalcare.jpg'},
   {id:'beauty',       l:'BEAUTY',        e:'💄', img:'images/cream.png'},
 ];
 
