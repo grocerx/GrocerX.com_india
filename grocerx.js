@@ -1389,7 +1389,7 @@ function openOrdersSheet() {
 }
 
 /* ===== ADDRESS ===== */
-let savedAddress = { name:'username.xyz', phone:'+91 98765 43210', house:'', area:'Karawal Nagar', city:'New Delhi', pin:'' };
+let savedAddress = { name:'username.xyz', phone:'+91 99999*****', house:'', area:' ', city:'New Delhi', pin:'' };
 
 function openAddressSheet() {
   document.getElementById('addr-name').value  = savedAddress.name;
