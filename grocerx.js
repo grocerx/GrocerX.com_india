@@ -1418,7 +1418,7 @@ function saveAddress() {
   const pn2 = document.querySelector('.pn2');
   const pph = document.querySelector('.pph');
   if(pn2) pn2.textContent = savedAddress.name || 'username.xyz';
-  if(pph) pph.textContent = savedAddress.phone || '+91 98765 43210';
+  if(pph) pph.textContent = savedAddress.phone || '+91 99999*****';
   // Update profile small text
   const sm = document.getElementById('prof-addr-small');
   if(sm) sm.textContent = short;
